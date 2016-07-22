@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[OpenLeadershipProject]]></title>
+        <description><![CDATA[OpenLeadershipProject]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 22 Jul 2016 23:39:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[#TheOpenLeadershipProject]]></title>
+            <description><![CDATA[<article><h1>#TheOpenLeadershipProject</h1><h2>Where the Creative Collective can be heard</h2><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1edc3f39852bd58957c5d75e1719950f/croprotate.png?cropheight=804&cropwidth=1435&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fff2e9ee8-d723-4260-91d4-6a9ec015e4fd.png&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff2e9ee8-d723-4260-91d4-6a9ec015e4fd.png</link>
+            <guid isPermaLink="false">c811df88-3836-4a68-bf2f-6e7ce9364077</guid>
+            <pubDate>Fri, 22 Jul 2016 23:38:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
