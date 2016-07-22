@@ -6,9 +6,9 @@ color:
   saturation: 0.09114675084128976
   rhythmicContrast: 0.5283199746627361
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#332532'
+    - '#644D52'
+    - '#F77A52'
+    - '#FF974F'
+    - '#A49A87'
 name: OpenLeadershipProject
