@@ -1,0 +1,14 @@
+layout_spectrum: 0.2604740634560585
+typography_spectrum: 0.4842453661840409
+color:
+  brandStrength: 0.8768674083985388
+  lightness: 0.9473582389764488
+  saturation: 0.09114675084128976
+  rhythmicContrast: 0.5283199746627361
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: OpenLeadershipProject
