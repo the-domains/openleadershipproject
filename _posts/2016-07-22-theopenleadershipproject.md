@@ -1,15 +1,18 @@
 ---
-datePublished: '2016-07-22T23:38:59.052Z'
+datePublished: '2016-07-23T00:22:16.453Z'
+sourcePath: _posts/2016-07-22-theopenleadershipproject.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff2e9ee8-d723-4260-91d4-6a9ec015e4fd.png
 author: []
 via: {}
-dateModified: '2016-07-22T23:37:40.639Z'
+dateModified: '2016-07-23T00:22:15.325Z'
 title: '#TheOpenLeadershipProject'
 publisher: {}
-description: ''
+description: >-
+  It doesn’t matter whether you’re the CEO having to bend to the guy in the
+  network’s whim, or an intern slogging your guts out to get your first creative
+  role, we could all do with better leadership.
 starred: true
-sourcePath: _posts/2016-07-22-theopenleadershipproject.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -22,8 +25,8 @@ _type: MediaObject
 
 ## Where the Creative Collective can be heard
 
-### It doesn't matter whether you're the CEO having to bend to the guy in the network's whim, or an intern slogging your guts out to get your first creative role, we could all do with better leadership.
+It doesn't matter whether you're the CEO having to bend to the guy in the network's whim, or an intern slogging your guts out to get your first creative role, we could all do with better leadership.
 
-### And this is what the \#OpenLeadershipProject is all about. Helping everyone in the creative industry, from apprentice to C-Suite, become more inspiring and successful leaders.
+And this is what the \#OpenLeadershipProject is all about. Helping everyone in the creative industry, from apprentice to C-Suite, become more inspiring and successful leaders.
 
-### It is a crowd sourced effort to improve leadership in the Creative industry, by its people.
+It is a crowd sourced effort to improve leadership in the Creative industry, by its people.
