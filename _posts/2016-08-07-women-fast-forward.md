@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-07T17:15:41.358Z'
+datePublished: '2016-08-07T17:28:45.218Z'
 sourcePath: _posts/2016-08-07-women-fast-forward.md
 isBasedOnUrl: 'http://www.ey.com/GL/en/Issues/Business-environment/women-fast-forward'
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-07T17:15:40.233Z'
+dateModified: '2016-08-07T17:28:44.231Z'
 title: Women. Fast forward
 app_links: []
 publisher:
