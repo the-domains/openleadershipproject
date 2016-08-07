@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-07T16:16:52.540Z'
+datePublished: '2016-08-07T16:54:58.624Z'
 sourcePath: _posts/2016-08-07-how-do-we-tell-leaders-what-we-want.md
 author: []
 via: {}
-dateModified: '2016-08-07T16:16:51.515Z'
+dateModified: '2016-08-07T16:54:57.601Z'
 title: How do we tell leaders what we want?
 publisher: {}
 description: >-
@@ -19,9 +19,8 @@ inNav: false
 _type: MediaObject
 
 ---
+# How do we tell leaders what we want?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8518162-bb2b-4d25-a245-22ad50d09d9a.jpg)
-
-## How do we tell leaders what we want?
 
 By filling out the \#OpenLeadershipProject survey you'll be contributing to an anonymous database of thousands of employee stories about their managers. These are continually analysed by a team that has worked with the Economist Intelligence Unit to uncover what good (and bad leadership) looks like according to industry, gender, seniority and role. All you have to do is:
 
