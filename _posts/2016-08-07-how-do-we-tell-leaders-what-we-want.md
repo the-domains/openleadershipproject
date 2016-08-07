@@ -1,11 +1,12 @@
 ---
-datePublished: '2016-08-07T16:54:58.624Z'
+datePublished: '2016-08-07T17:24:56.430Z'
 sourcePath: _posts/2016-08-07-how-do-we-tell-leaders-what-we-want.md
 author: []
 via: {}
-dateModified: '2016-08-07T16:54:57.601Z'
+dateModified: '2016-08-07T17:24:55.110Z'
 title: How do we tell leaders what we want?
-publisher: {}
+publisher:
+  name: The Open Leadership Project
 description: >-
   By filling out the #OpenLeadershipProject survey you’ll be contributing to an
   anonymous database of thousands of employee stories about their managers.
