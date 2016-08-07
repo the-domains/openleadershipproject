@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Open Leadership Project]]></title>
+        <description><![CDATA[The Open Leadership Project]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 07 Aug 2016 16:40:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Millennials Aren't More Motivated By "Purpose" Than The Rest Of Us]]></title>
+            <description><![CDATA[<article><h1>Millennials Aren't More Motivated By "Purpose" Than The Rest Of Us</h1><p>Millennials are a demanding bunch, or so it would seem. Deloitte's 2016 Millennial Survey reports that, if it were up to them, the cohort "would place far greater emphasis than current leaders on 'employee wellbeing' and 'employee growth and development.'</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8779d8dff2a03538d6e776c43a99615c/noop.jpg?input=http%3A%2F%2Fd.fastcompany.net%2Fmultisite_files%2Ffastcompany%2Fimagecache%2F620x350%2Fposter%2F2016%2F07%2F3061441-poster-p-2-millennials-arent-more-motivated-by-purpose-than-the-rest-of-us.jpg"></article>]]></description>
+            <link>http://www.fastcompany.com/3061441/the-future-of-work/millennials-arent-more-motivated-by-purpose-than-the-rest-of-us</link>
+            <guid isPermaLink="false">cd434d81-294a-4195-a640-fb46f3debfee</guid>
+            <pubDate>Sun, 07 Aug 2016 16:40:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
