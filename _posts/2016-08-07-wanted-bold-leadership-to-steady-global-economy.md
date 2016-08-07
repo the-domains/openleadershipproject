@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-07T16:52:52.035Z'
+datePublished: '2016-08-07T16:56:24.938Z'
 sourcePath: _posts/2016-08-07-wanted-bold-leadership-to-steady-global-economy.md
 isBasedOnUrl: >-
   http://www.forbes.com/sites/paullaudicina/2016/03/25/wanted-bold-leadership-to-steady-global-economy/#50421c0737f7
@@ -7,7 +7,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-07T16:52:51.049Z'
+dateModified: '2016-08-07T16:56:21.836Z'
 title: 'Wanted: Bold Leadership To Steady Global Economy'
 app_links: []
 publisher:
@@ -28,4 +28,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="http://blogs-images.forbes.com/paullaudicina/files/2016/03/Forbes-3-24-2016-A-Stalled-Global-Economy-Could-Easily-Be-Toppled-1200x794.jpg" /><h1>Wanted: Bold Leadership To Steady Global Economy</h1><p>In recent weeks, leaders from the World Bank and International Monetary Fund (IMF) and the Group of 20 (G20) finance ministers have issued their most dire warnings on the state of the world economy since the Global Financial Crisis. Yet, the problems they have highlighted are unlikely to be addressed.</p></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ee04369-9ed8-4e15-9f46-282929e403fc.jpg)
