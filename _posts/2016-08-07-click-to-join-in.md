@@ -1,13 +1,13 @@
 ---
 description: ''
-dateModified: '2016-08-07T14:45:24.804Z'
-datePublished: '2016-08-07T14:45:41.768Z'
-title: ' CLICK TO JOIN IN '
+dateModified: '2016-08-07T14:46:35.183Z'
+datePublished: '2016-08-07T14:46:36.135Z'
+title: CLICK TO JOIN IN
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-07-click-to-join-in.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
