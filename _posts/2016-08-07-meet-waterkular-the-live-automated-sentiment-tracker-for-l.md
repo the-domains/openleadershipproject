@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-07T16:14:15.655Z'
+datePublished: '2016-08-07T16:51:33.507Z'
 sourcePath: >-
   _posts/2016-08-07-meet-waterkular-the-live-automated-sentiment-tracker-for-l.md
 author: []
 via: {}
-dateModified: '2016-08-07T16:14:13.864Z'
+dateModified: '2016-08-07T16:51:31.790Z'
 title: 'Meet Waterkular, the live, automated sentiment tracker for leaders'
 publisher: {}
 description: >-
@@ -12,7 +12,7 @@ description: >-
   people felt so that they could adapt accordingly. So while our data scientists
   work on getting the very best insights from the study, they are also building
   an automated version of The Open Leadership Project.
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
