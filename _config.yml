@@ -1,16 +1,16 @@
-typography_spectrum: 0.4842453661840409
+typography_spectrum: 0.4025814833585173
 color:
-  brandStrength: 0.8768674083985388
-  lightness: 0.9473582389764488
-  saturation: 0.09114675084128976
-  rhythmicContrast: 0.5283199746627361
+  brandStrength: 0.40906702307984233
+  lightness: 0.4196003235410899
+  saturation: 0.25139388418756425
+  rhythmicContrast: 0.6509959059767425
   brandColors:
-    - '#332532'
-    - '#644D52'
-    - '#F77A52'
-    - '#FF974F'
-    - '#A49A87'
-layout_spectrum: 0.2604740634560585
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+layout_spectrum: 0.08909996785223484
 name: OpenLeadershipProject
 title: The Open Leadership Project
 description: Crowd-sourcing great leadership skills
