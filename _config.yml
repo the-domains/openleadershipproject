@@ -1,4 +1,3 @@
-layout_spectrum: 0.2604740634560585
 typography_spectrum: 0.4842453661840409
 color:
   brandStrength: 0.8768674083985388
@@ -11,5 +10,7 @@ color:
     - '#F77A52'
     - '#FF974F'
     - '#A49A87'
+layout_spectrum: 0.2604740634560585
 name: OpenLeadershipProject
 title: '#TheOpenLeadershipProject'
+description: Crowd-sourcing great leadership skills
