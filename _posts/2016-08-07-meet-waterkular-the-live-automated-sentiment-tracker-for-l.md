@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-07T16:51:33.507Z'
+datePublished: '2016-08-07T16:51:49.053Z'
 sourcePath: >-
   _posts/2016-08-07-meet-waterkular-the-live-automated-sentiment-tracker-for-l.md
 author: []
 via: {}
-dateModified: '2016-08-07T16:51:31.790Z'
+dateModified: '2016-08-07T16:51:48.032Z'
 title: 'Meet Waterkular, the live, automated sentiment tracker for leaders'
 publisher: {}
 description: >-
@@ -19,9 +19,8 @@ inNav: false
 _type: MediaObject
 
 ---
+# Meet Waterkular, the live, automated sentiment tracker for leaders
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ccd915a-4a10-43a5-9714-fe634cfb6c66.jpg)
-
-## Meet Waterkular, the live, automated sentiment tracker for leaders
 
 We realised that it would be great if managers could continuously know how people felt so that they could adapt accordingly. So while our data scientists work on getting the very best insights from the study, they are also building an automated version of The Open Leadership Project.
 
