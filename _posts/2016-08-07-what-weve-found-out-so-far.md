@@ -1,11 +1,12 @@
 ---
-datePublished: '2016-08-07T16:16:14.904Z'
+datePublished: '2016-08-08T09:10:18.022Z'
 sourcePath: _posts/2016-08-07-what-weve-found-out-so-far.md
 author: []
 via: {}
-dateModified: '2016-08-07T16:16:13.969Z'
+dateModified: '2016-08-07T17:23:57.042Z'
 title: What we’ve found out so far
-publisher: {}
+publisher:
+  name: The Open Leadership Project
 description: Here’s what the 1000 stories has told us so far…
 starred: false
 inFeed: true
